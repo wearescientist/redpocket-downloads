@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title description">
+  <title id="title">群红包任务，让电脑全自动抢红包赚钱</title>
+  <desc id="description">自动盯群，自动抢红包，投递任务，查看收益。RedPocket Windows 客户端。</desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1">
+      <stop stop-color="#fff8ef"/>
+      <stop offset="1" stop-color="#ffe7d2"/>
+    </linearGradient>
+    <linearGradient id="packet" x2="1" y2="1">
+      <stop stop-color="#ed502f"/>
+      <stop offset="1" stop-color="#b82323"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="430" rx="24" fill="url(#paper)"/>
+  <g font-family="Microsoft YaHei UI,Microsoft YaHei,Noto Sans CJK SC,sans-serif">
+    <text x="54" y="69" font-size="24" font-weight="700" fill="#a82c24">RedPocket · 群红包任务</text>
+    <text x="50" y="162" font-size="73" font-weight="800" letter-spacing="-2" fill="#361e19">全自动抢红包赚钱</text>
+    <text x="54" y="217" font-size="28" fill="#765247">把盯群、抢包和任务投递交给电脑</text>
+    <text x="54" y="267" font-size="21" fill="#765247">面向微信群红包互助任务 · Windows 完整运行包</text>
+    <g transform="translate(909 57)">
+      <circle cx="115" cy="112" r="111" fill="#f9d4b7"/>
+      <rect x="33" y="14" width="164" height="203" rx="24" fill="#93251c" opacity=".1" transform="translate(0 8)"/>
+      <rect x="33" y="14" width="164" height="203" rx="24" fill="url(#packet)"/>
+      <path d="M33 57 Q115 146 197 57 L197 39 Q197 14 172 14 H58 Q33 14 33 39 Z" fill="#f76540"/>
+      <circle cx="115" cy="113" r="38" fill="#f7d17a"/>
+      <circle cx="115" cy="113" r="29" fill="none" stroke="#b87a36" stroke-width="2"/>
+      <text x="115" y="128" font-size="41" font-weight="800" text-anchor="middle" fill="#a73c21">¥</text>
+      <path d="m203 16 8-16 8 16 16 8-16 8-8 16-8-16-16-8Z" fill="#d68b3e"/>
+    </g>
+    <g font-size="23" font-weight="700" text-anchor="middle">
+      <rect x="54" y="331" width="242" height="56" rx="14" fill="#ffffff" fill-opacity=".75"/>
+      <text x="175" y="367" fill="#8b2c22">自动盯群</text>
+      <path d="m309 355 11 5-11 5" fill="none" stroke="#b37659" stroke-width="2"/>
+      <rect x="338" y="331" width="242" height="56" rx="14" fill="#ffffff" fill-opacity=".75"/>
+      <text x="459" y="367" fill="#8b2c22">自动抢包</text>
+      <path d="m592 355 11 5-11 5" fill="none" stroke="#b37659" stroke-width="2"/>
+      <rect x="622" y="331" width="242" height="56" rx="14" fill="#ffffff" fill-opacity=".75"/>
+      <text x="743" y="367" fill="#8b2c22">任务投递</text>
+      <path d="m877 355 11 5-11 5" fill="none" stroke="#b37659" stroke-width="2"/>
+      <rect x="906" y="331" width="240" height="56" rx="14" fill="#b63027"/>
+      <text x="1026" y="367" fill="#ffffff">收益统计</text>
+    </g>
+  </g>
+</svg>
